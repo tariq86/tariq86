@@ -1,6 +1,33 @@
-# 👋🏽 🌎 ❗ 
+# 👋🏽 🌎 ❗
 
-Welcome to my GitHub profile!
+## Welcome to @tariq86's profile!
+
+<br clear="both" />
+
+<img align="right" height="200" src="./res/img/my-bitmoji.png" alt="frustratred me" />
+
+<p valign="middle">This README is a work-in-progress, so please check back soon for more content!
+</p>
+
+<br clear="both" />
+
+---
+
+<details open>
+<summary>
+    🤓 <b>My Github Stats</b> 🤓
+</summary>
+
+<br />
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=tariq86&show_icons=true&theme=dark&count_private=true&hide=contribs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tariq86&theme=dark&layout=compact" />
+</p>
+
+</details>
+
+---
 
 <p align="center">
     <a href="https://github.com/tariq86">
