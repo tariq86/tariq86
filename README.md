@@ -1,6 +1,6 @@
 # 👋🏽 🌎 ❗
 
-## Welcome to @tariq86's profile!
+### Welcome to my GitHub profile!
 
 <br clear="both" />
 
@@ -13,16 +13,12 @@
 
 ---
 
-<details open>
-<summary>
-    🤓 <b>My Github Stats</b> 🤓
-</summary>
+### 🤓 My Github Stats
 
 <br />
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=tariq86&show_icons=true&theme=dark&count_private=true&hide=contribs" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tariq86&theme=dark&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api?username=tariq86&show_icons=true&theme=dark&count_private=true" />
 </p>
 
 </details>
@@ -35,10 +31,10 @@
     </a>
     <span>&nbsp;</span>
     <a href="https://www.linkedin.com/in/tariqabusheikh">
-        <img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn" />
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <span>&nbsp;</span>
-    <a href="#--">
+    <a href="https://github.com/tariq86/tariq86">
         <img src="https://hits.dwyl.com/tariq86/tariq86.svg" alt="Hits" />
     </a>
 </p>
