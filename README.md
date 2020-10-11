@@ -75,6 +75,9 @@ Modern development requires a large set of tools serving various purposes. Here 
     &nbsp;
     <!-- Vagrant -->
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vagrant/vagrant-original.svg" width="32" alt="Vagrant" />
+    &nbsp;
+    <!-- Jenkins -->
+    <img src="https://raw.githubusercontent.com/tariq86/devicon/feature/306-jenkins/icons/jenkins/jenkins-original.svg" width="32" alt="Jenkins" />
 </details>
 
 <br />
@@ -148,6 +151,9 @@ Modern development requires a large set of tools serving various purposes. Here 
     <!-- PHP -->
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="32" alt="PHP" />
     &nbsp;
+    <!-- JS -->
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="32" alt="JS" />
+    &nbsp;
     <!-- HTML5 -->
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="32" alt="HTML5" />
     &nbsp;
@@ -156,6 +162,9 @@ Modern development requires a large set of tools serving various purposes. Here 
     &nbsp;
     <!-- CSS3 -->
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="32" alt="CSS3" />
+    &nbsp;
+    <!-- Java -->
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="32" alt="Java" />
     &nbsp;
     <!-- Python -->
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="32" alt="Python" />
