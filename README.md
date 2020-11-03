@@ -13,7 +13,7 @@
     </a>
 </p>
 
-<h1 align="center"><img height="50px" src="./res/img/Hi.gif" alt="👋🏽" /> 🌎 ❗</h1>
+<h1><img width="30px" src="./res/img/Hi.gif" alt="👋🏽" /> 🌎 ❗</h1>
 
 <img align="right" height="200" src="./res/img/my-bitmoji.png" alt="frustratred bitmoji me" />
 
@@ -21,12 +21,13 @@
 
 **Welcome to my Github profile**! My name is Tariq, and I'm a full-stack developer living and working in Austin, TX.
 
-- 👨‍💻 Teaching full-stack development using the MERN stack at [The Coding Boot Camp at UT Austin](https://techbootcamps.utexas.edu/coding/)
-- 📚 Current top 3 areas of interest:
-  1. Augmented/Virtual Reality (AR/VR)
+- 👨‍💻 Currently teaching full-stack development using the MERN stack at [The Coding Boot Camp at UT Austin](https://techbootcamps.utexas.edu/coding/)
+- 📚 Present top 3 areas of interest:
+  1. Augmented & Virtual Reality (AR/VR)
   1. Real-time Communication (RTC)
   1. Health/Wellbeing Tech
-- 📧 Contact me @ [**tariq.abusheikh@gmail.com**](mailto:tariq.abusheikh@gmail.com)
+- 🌐 Check out my portfolio here: [**tariq86.github.io**](https://tariq86.github.io)
+- 📧 Contact me here: [**tariq.abusheikh@gmail.com**](mailto:tariq.abusheikh@gmail.com)
 </p>
 
 <br clear="both" />
