@@ -21,13 +21,15 @@
 
 **Welcome to my Github profile**! My name is Tariq, and I'm a full-stack developer living and working in Austin, TX.
 
-- 👨‍💻 Currently teaching full-stack development using the MERN stack at [The Coding Boot Camp at UT Austin](https://techbootcamps.utexas.edu/coding/)
-- 📚 Present top 3 areas of interest:
+- ✨ Over 10 years of professional experience in web development
+- 👨‍💻 Adjunct instructor of full-stack development at [The Coding Boot Camp at UT Austin](https://techbootcamps.utexas.edu/coding/)
+- 📚 Current top 3 areas of interest:
   1. Augmented & Virtual Reality (AR/VR)
   1. Real-time Communication (RTC)
   1. Health/Wellbeing Tech
-- 🌐 Check out my portfolio here: [**tariq86.github.io**](https://tariq86.github.io)
+- 🌐 Check out my portfolio site here: [**tariq86.github.io**](https://tariq86.github.io)
 - 📧 Contact me here: [**tariq.abusheikh@gmail.com**](mailto:tariq.abusheikh@gmail.com)
+
 </p>
 
 <br clear="both" />
@@ -220,7 +222,3 @@
 <!-- Firefox -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firefox/firefox-original.svg" width="32" alt="Firefox" />
 </details>
-
----
-
-Thank you for checking out my profile! I'm still tweaking a few things, so please check back soon for updates!
