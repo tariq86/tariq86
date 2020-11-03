@@ -88,6 +88,8 @@
     <!-- Git -->
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="32" alt="Git" />
     &nbsp;
+    <img src="https://raw.githubusercontent.com/tariq86/devicon/icons/composer/icons/composer/composer-original.svg" width="32" alt="Composer" />
+    &nbsp;
     <!-- NPM -->
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="32" alt="NPM" />
 </details>
