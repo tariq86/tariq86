@@ -1,5 +1,3 @@
-# 👋🏽 🌎 ❗
-
 <p align="center">
     <span>&nbsp;</span>
     <a href="https://www.linkedin.com/in/tariqabusheikh">
@@ -15,17 +13,20 @@
     </a>
 </p>
 
----
-
-## Welcome to my GitHub profile!
+<h1 align="center"><img height="50px" src="./res/img/Hi.gif" alt="👋🏽" /> 🌎 ❗</h1>
 
 <img align="right" height="200" src="./res/img/my-bitmoji.png" alt="frustratred bitmoji me" />
 
 <p valign="middle">
-I'm a full-stack developer working and living in Austin, TX.
 
-- I'm currently teaching full-stack development at UT Austin's Coding Bootcamp
-- Filetypes I work with daily: `.html`, `.js[x]`, `.md`, `.php`, `.[s]css`, `.vue` and more!
+**Welcome to my Github profile**! My name is Tariq, and I'm a full-stack developer living and working in Austin, TX.
+
+- 👨‍💻 Teaching full-stack development using the MERN stack at [The Coding Boot Camp at UT Austin](https://techbootcamps.utexas.edu/coding/)
+- 📚 Current top 3 areas of interest:
+  1. Augmented/Virtual Reality (AR/VR)
+  1. Real-time Communication (RTC)
+  1. Health/Wellbeing Tech
+- 📧 Contact me @ [**tariq.abusheikh@gmail.com**](mailto:tariq.abusheikh@gmail.com)
 </p>
 
 <br clear="both" />
@@ -41,8 +42,6 @@ I'm a full-stack developer working and living in Austin, TX.
 ---
 
 ## 🛠️ My Toolbox
-
-Modern development requires a large set of tools serving various purposes. Here are (_most_) of the things I use regularly when coding!
 
 <small>Note: each section is sorted from most experience to least; the sections themselves are in alphabetical order.</small>
 
