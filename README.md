@@ -38,11 +38,11 @@
     <img src="https://github-readme-stats.vercel.app/api?username=tariq86&show_icons=true&theme=dark" />
 </p>
 
+<small>Note: these stats do not include contributions to private repositories, which I use frequently for work, teaching, etc.</small>
+
 ---
 
 ## 🛠️ My Toolbox
-
-<small>Note: each section is sorted from most experience to least; the sections themselves are in alphabetical order.</small>
 
 <details open>
     <summary><strong>Data Stores & Interfaces</strong></summary>
@@ -214,7 +214,8 @@
 <details open>
     <summary><strong>And last but not least, my browser of choice is:</strong></summary>
     <br />
-
-<!-- Firefox -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firefox/firefox-original.svg" width="32" alt="Firefox" />
+    <!-- Firefox -->
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firefox/firefox-original.svg" width="32" alt="Firefox" />
 </details>
+
+<small>Note: each section is sorted from most experience to least; the sections themselves are in alphabetical order.</small>
