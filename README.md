@@ -1,9 +1,5 @@
 <p align="center">
     <span>&nbsp;</span>
-    <a href="https://www.linkedin.com/in/tariqabusheikh">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <span>&nbsp;</span>
     <a href="https://github.com/tariq86/tariq86">
         <img src="https://pageview.vercel.app/?github_user=tariq86" alt="GitHub Profile Views" />
     </a>
@@ -26,7 +22,7 @@
 **Welcome to my Github profile**! My name is Tariq, and I'm a full-stack software engineer living and working in Austin, TX.
 
 - ✨ Over 10 years of professional experience in web development
-- 👨‍💻 Adjunct instructor teaching full-stack development at [The Coding Boot Camp at UT Austin](https://techbootcamps.utexas.edu/coding/)
+- 👨‍💻 Former adjunct instructor teaching full-stack development at [The Coding Boot Camp at UT Austin](https://techbootcamps.utexas.edu/coding/)
 - 🌐 Check out my portfolio site here: [**tariq86.github.io**](https://tariq86.github.io)
 
 </p>
