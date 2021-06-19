@@ -19,12 +19,11 @@
 
 <p valign="middle">
 
-**Welcome to my Github profile**! My name is Tariq, and I'm a full-stack developer living and working in Austin, TX.
+**Welcome to my Github profile**! My name is Tariq, and I'm a full-stack software engineer living and working in Austin, TX.
 
 - ✨ Over 10 years of professional experience in web development
 - 👨‍💻 Adjunct instructor teaching full-stack development at [The Coding Boot Camp at UT Austin](https://techbootcamps.utexas.edu/coding/)
 - 🌐 Check out my portfolio site here: [**tariq86.github.io**](https://tariq86.github.io)
-- 📧 Contact me here: [**tariq.abusheikh@gmail.com**](mailto:tariq.abusheikh@gmail.com)
 
 </p>
 
