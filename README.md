@@ -13,7 +13,11 @@
     </a>
 </p>
 
-<h1><img width="30px" src="./res/img/Hi.gif" alt="👋🏽" /> 🌎 ❗</h1>
+<h1>
+	<img height="30px" src="./res/img/hi.gif" alt="👋🏽" />
+	<img height="30px" src="./res/img/globe.gif" alt="🌎" />
+	<img height="30px" src="./res/img/exclamation.gif" alt="❗" />
+</h1>
 
 <img align="right" height="200" src="./res/img/my-bitmoji.png" alt="frustratred bitmoji me" />
 
